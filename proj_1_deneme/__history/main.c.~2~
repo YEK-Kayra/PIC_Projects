@@ -1,0 +1,18 @@
+#include <main.h>
+#include <sdtint.h>
+
+uint16_t myFunction(void){
+
+
+
+void main()
+{
+
+   while(TRUE)
+   {
+
+
+      //TODO: User Code
+   }
+
+}

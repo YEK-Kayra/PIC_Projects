@@ -1,0 +1,42 @@
+[PROJECT]
+Target=main.hex
+Processor_Text=PIC16F88
+CCSVerions=5.049
+Compiler=PCM
+CCSVersion=5.049
+[Target Data]
+FileList=main.c
+[Directories]
+Include=
+[C:\Users\yunus\OneDrive\Belgeler\picProjects\PIC_Projects\proj_1_deneme\main]
+Type=4
+[mru-list]
+1=main.c
+
+[ProjectLog]
+Days=1
+D1=14-10-2024
+D1_L=4
+D1_L1=[53]Project Opened.
+D1_L2=[186]Started Editing.
+D1_L3=[525]Stopped Editing.
+TotalEdit=6
+TotalDebug=0
+D1_E=6
+D1_D=0
+D1_L4=[525]Project Closed.
+
+[Opened Files]
+1=main.c
+t1=1
+2=main.h
+t2=1
+Count=2
+[main.c]
+Type=4
+[Units]
+Count=1
+1=main (main)
+
+[defines]
+buildcount=1
